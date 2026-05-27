@@ -9,9 +9,9 @@ O projeto se trata de uma aplicação de uma to-do list onde é possível adicio
 <div align="center">
   <img src="./preview.png" alt="Preview do Projeto" width="100%">
   
-  [Acesse o Projeto Online](https://marinasp13.github.io/to-do-list/)</br>
-  [Acesse o Repositório do Projeto](https://github.com/marinasp13/to-do-list)</br>
-  [Reportar Bug](https://github.com/marinasp13/to-do-list/issues)</br>
+  [Acesse o Projeto Online](https://marinaspdev.github.io/to-do-list/)</br>
+  [Acesse o Repositório do Projeto](https://github.com/marinaspdev/to-do-list)</br>
+  [Reportar Bug](https://github.com/marinaspdev/to-do-list/issues)</br>
   
 </div>
 
@@ -54,7 +54,7 @@ Caso queira rodar este projeto localmente na sua máquina, siga os passos abaixo
 
 ```bash
 # 1. Clone este repositório
-$ git clone https://github.com/marinasp13/to-do-list.git
+$ git clone https://github.com/marinaspdev/to-do-list.git
 
 # 2. Acesse a pasta do projeto
 $ cd to-do-list
